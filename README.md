@@ -3,4 +3,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkazakiRui&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkazakiRui&layout=compact&theme=dracula)](https://github.com/OkazakiRui/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=portfolio-react)](https://github.com/OkazakiRui/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=portfolio-react)](https://github.com/OkazakiRui/portfolio-react)
