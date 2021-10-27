@@ -6,3 +6,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=portfolio-react)](https://github.com/OkazakiRui/portfolio-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=mouseStoker)](https://github.com/OkazakiRui/mouseStoker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=calendarJs)](https://github.com/OkazakiRui/calendarJs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=canvasDrawing)](https://github.com/OkazakiRui/canvasDrawing)
+
